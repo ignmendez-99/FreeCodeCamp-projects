@@ -1,0 +1,79 @@
+#main {
+    background-image: linear-gradient(#dac9ea, #e83f06, #fcf799, #65b538);
+}
+
+#title {
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Caveat', cursive;
+}
+
+#tribute-info {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+    font-family: 'Caveat', cursive;
+}
+
+.outer-card {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.period-container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card-body {
+    text-align: justify;
+}
+
+.card-text {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.period-title {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+/* Vertically centered image! */
+.img-div {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.period-image{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    vertical-align: middle;
+    max-width: max-content;
+}
+
+#final-comment {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#image {
+    height: auto;
+    width: auto;
+    border-radius: 90%;
+    text-align: center;
+    max-width: max-content;
+    display: block;
+}
+
+#thanks {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

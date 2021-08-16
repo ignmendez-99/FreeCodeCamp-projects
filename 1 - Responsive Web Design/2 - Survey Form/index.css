@@ -1,0 +1,27 @@
+#main {
+    background-image: url(https://2.bp.blogspot.com/-CV9-B9-Rvz8/T4gXqPap9rI/AAAAAAAACNY/k3S3qAC-mQk/s1600/grilled_cheese_sandwich_1.jpg);
+}
+
+#title-container {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.card {
+    margin-left: 300px;
+    margin-right: 300px;
+    opacity: 0.85;
+}
+
+.row {
+    margin-bottom: 30px  !important;
+}
+
+#ingridient-order-title {
+    margin-bottom: 7px;
+}
+
+.btn-primary {
+    background-color: #ffa50a !important;
+    color: black !important;
+}
